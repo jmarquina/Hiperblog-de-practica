@@ -4,6 +4,7 @@
 - Primer intento de inventario de git hub
 - Ya subire todo lo que haga
 - Support identification, interpretation, fliter of the HTML tags;
+-creado por el mejor programador del mundo
 
 
 # Jordan Marquina
